@@ -1,0 +1,1 @@
+-- We notice 41109 trips had <0 minutes so those were probably glitches or tests

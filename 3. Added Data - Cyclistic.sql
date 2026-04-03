@@ -1,0 +1,3 @@
+-- Now we can get the total amount of trips in those 7 months
+-- So we can later figure what months were best
+-- 
